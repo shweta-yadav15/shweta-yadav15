@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **shweta.yadav@ucdenver.edu**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shwets1503&show_icons=true" alt="shwets1503" /> </p>
+#<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shwets1503&show_icons=true" alt="shwets1503" /> </p>
 
 ---
 
