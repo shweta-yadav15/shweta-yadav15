@@ -4,7 +4,7 @@
 
 💡 &nbsp;I like to do data analysis, modelling and visualization. I am a quick learner and love to explore new technolgies.\
 🎓 &nbsp;I recently graduated with Masters in Computer Science from University of Colorado, Denver in May 2020.\
-🌱 &nbsp;I'm on track for learning more about System Design for Big Data, Cloud Architecture and Web Scraping.\
+🌱 &nbsp;I am currently learning more about System Design for Big Data, Cloud Architecture and Web Scraping.\
 ✍️ &nbsp;In my free time, I read books, write, do yoga and go for long walks. \
 💬 &nbsp;I am currently looking for a job opportunity in the field of data. Feel free to reach out to me if you want to work together, volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at datascientist.shweta@gmail.com! I'll try to respond as soon as I can.\
