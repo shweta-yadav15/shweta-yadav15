@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at datascientist.shweta@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://shweta-yadav15.github.io/Shweta_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/shweta-yadav15/shweta-yadav15/master/Coding.gif" align="right" width="300" height="250"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/shweta-yadav15/shweta-yadav15/master/Coding.gif" align="right" width="300" height="200"/>
 
 ### 🛠 &nbsp;Tech Stack
 
