@@ -10,7 +10,7 @@
 ✉️ &nbsp;You can shoot me an email at datascientist.shweta@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://shweta-yadav15.github.io/Shweta_Resume.pdf) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/shweta-yadav15/shweta-yadav15/master/Coding.gif" align="centre" width="250" height="2000"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/shweta-yadav15/shweta-yadav15/master/Coding.gif" align="right" width="250" height="2000"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,7 +39,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://shweta-yadav15.github.io/"><img src="https://img.shields.io/badge/-personal-website-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://shweta-yadav15.github.io/"><img src="https://img.shields.io/badge/-shweta-yadav15.github.io-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/shwetayadav15/"><img src="https://img.shields.io/badge/-Shweta%20Yadav-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:datascientist.shweta@gmail.com"><img src="https://img.shields.io/badge/-email me-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
